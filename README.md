@@ -37,5 +37,5 @@ The project demonstrates database design concepts used in healthcare management 
 ## Screenshot
 Healthcare database ER diagram:
 
-![Healthcare ERD](Screenshots/Healthcare-ss.png)
+![Healthcare ERD](screenshots/Healthcare-ss.png)
 
